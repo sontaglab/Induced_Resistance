@@ -8,3 +8,7 @@ Codes for induced resistance paper
 - Fig 6:  run parameter_interpolation.m
 - Fig 7:  run interp_params_logfit.m.  Interpolated parameters are computed in parameter_interpolation.m
 - Fig 8:  run optimal_control_dose_tracking.ipynb
+
+- Fig A.1:  run smoothed_rates.ipynb
+- Fig A.2:  run
+- Fig A.3:  run
