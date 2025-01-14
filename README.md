@@ -12,3 +12,5 @@ Codes for induced resistance paper
 - Fig A.1:  run smoothed_rates.ipynb
 - Fig A.2:  run induced_model_3popALT_fitting.m
 - Fig A.3:  run induced_model_3popALT_histograms.m
+
+- Table A.1:  run induced_model_2pop_fitting_preexisting.m
