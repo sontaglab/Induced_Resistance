@@ -15,4 +15,4 @@ Code for induced resistance paper
 
 - Table A.1:  run induced_model_2pop_fitting_preexisting.m
 
-All code is either MATLAB (.m extension) or Python Jupyter notebook (.ipynb)
+All code is either MATLAB (.m extension) or Python Jupyter notebook (.ipynb extension)
