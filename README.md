@@ -10,5 +10,5 @@ Codes for induced resistance paper
 - Fig 8:  run optimal_control_dose_tracking.ipynb
 
 - Fig A.1:  run smoothed_rates.ipynb
-- Fig A.2:  run
-- Fig A.3:  run
+- Fig A.2:  run induced_model_3popALT_fitting.m
+- Fig A.3:  run induced_model_3popALT_histograms.m
